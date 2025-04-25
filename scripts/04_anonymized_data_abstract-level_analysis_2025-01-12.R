@@ -27,10 +27,11 @@ library(reshape2)
 #                                              #
 ################################################
 
+
 # df_corpus: full corpus
 ## Description: dataframe with informations on the n = 2,280 studies in the full corpus
-url_corpus <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Full_Corpus_save.xlsx"
-df_corpus <- read_excel(url_corpus)
+url_corpus <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Full_Corpus_save.csv"
+df_corpus <- read.csv(url_corpus)
 
 # Print the number of rows in the dataframe
 print(nrow(df_corpus))

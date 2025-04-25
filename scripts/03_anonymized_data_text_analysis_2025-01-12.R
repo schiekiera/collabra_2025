@@ -16,10 +16,11 @@ library(tidyverse)
 library(report)
 library(cld2)
 
+
 # df_sample: sampled studies
 ## Description: dataframe with informations on the n = 354 sampled studies
-url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
-df_sample <- read_excel(url_sample)
+url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Results_Extraction_Final_save.csv"
+df_sample <- read.csv(url_sample)
 
 # included: included studies
 ##  description =   Dataframe with informations on the n = 300 sampled and included studies

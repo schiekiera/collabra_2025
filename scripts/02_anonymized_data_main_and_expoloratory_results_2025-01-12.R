@@ -20,14 +20,13 @@ library(FSA)
 
 # individuals
 ## Description: dataframe with informations on the n = 1,151 individuals
-url_ind <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Individuals.xlsx"
-df_ind <- read_excel(url_ind)
-
+url_ind <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Individuals.csv"
+df_ind <- read.csv(url_ind)
 
 # df_sample: sampled studies
 ## Description: dataframe with informations on the n = 354 sampled studies
-url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
-df_sample <- read_excel(url_sample)
+url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Results_Extraction_Final_save.csv"
+df_sample <- read.csv(url_sample)
 
 
 # included: included studies

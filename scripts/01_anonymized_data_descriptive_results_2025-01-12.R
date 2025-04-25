@@ -21,25 +21,24 @@ library(cld2)
 
 # individuals
 ## Description: dataframe with informations on the n = 1,151 individuals
-url_ind <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/main/data/Anonymized_Psych_Individuals.xlsx"
-df_ind <- read_excel(link2)
+url_ind <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Individuals.csv"
+df_ind <- read.csv(url_ind)
 
-link2<-"https://raw.githubusercontent.com/schiekiera/collabra_2025/main/data/Anonymized_Psych_Articles_per_Group.xlsx"
 
 # df_groups: research groups
 ## Description: dataframe with informations on the n = 99 research groups
-url_groups <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Articles_per_Group.xlsx"
-df_groups <- read_excel(url_groups)
+url_groups <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Articles_per_Group.csv"
+df_groups <- read.csv(url_groups)
 
 # df_corpus: full corpus
 ## Description: dataframe with informations on the n = 2,280 studies in the full corpus
-url_corpus <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Full_Corpus_save.xlsx"
-df_corpus <- read_excel(url_corpus)
+url_corpus <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Full_Corpus_save.csv"
+df_corpus <- read.csv(url_corpus)
 
 # df_sample: sampled studies
 ## Description: dataframe with informations on the n = 354 sampled studies
-url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
-df_sample <- read_excel(url_sample)
+url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/refs/heads/main/data/Anonymized_Psych_Results_Extraction_Final_save.csv"
+df_sample <- read.csv(url_sample)
 
 
 # included: included studies
