@@ -11,11 +11,6 @@
 ## remove workspace
 rm(list = ls())
 
-## set working directory
-path = "path/to/data/"
-setwd(path)
-
-
 # Load packages:
 library(readxl)
 library(tidyverse)
@@ -24,48 +19,27 @@ library(viridis)
 library(cld2)
 
 
-## exclude "exclude" from df_full
-
 # individuals
 ## Description: dataframe with informations on the n = 1,151 individuals
-df_ind <-
-  tibble(read_excel(
-    paste0(
-      path,
-      "00_Anonymized_Data/Anonymized_Psych_Individuals.xlsx"
-    )
-  ))
+url_ind <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/main/data/Anonymized_Psych_Individuals.xlsx"
+df_ind <- read_excel(link2)
+
+link2<-"https://raw.githubusercontent.com/schiekiera/collabra_2025/main/data/Anonymized_Psych_Articles_per_Group.xlsx"
 
 # df_groups: research groups
 ## Description: dataframe with informations on the n = 99 research groups
-df_groups <-
-  tibble(read_excel(
-    paste0(
-      path,
-      "00_Anonymized_Data/Anonymized_Psych_Articles_per_Group.xlsx"
-    )
-  ))
-
+url_groups <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Articles_per_Group.xlsx"
+df_groups <- read_excel(url_groups)
 
 # df_corpus: full corpus
 ## Description: dataframe with informations on the n = 2,280 studies in the full corpus
-df_corpus <-
-  tibble(read_excel(
-    paste0(
-      path,
-      "00_Anonymized_Data/Anonymized_Psych_Full_Corpus_save.xlsx"
-    )
-  ))
+url_corpus <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Full_Corpus_save.xlsx"
+df_corpus <- read_excel(url_corpus)
 
 # df_sample: sampled studies
 ## Description: dataframe with informations on the n = 354 sampled studies
-df_sample <-
-  tibble(read_excel(
-    paste0(
-      path,
-      "00_Anonymized_Data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
-    )
-  ))
+url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
+df_sample <- read_excel(url_sample)
 
 
 # included: included studies

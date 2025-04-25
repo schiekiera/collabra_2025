@@ -12,11 +12,6 @@
 ## remove workspace
 rm(list = ls())
 
-## set working directory
-path = "path/to/data/"
-setwd(path)
-
-
 # Load packages:
 library(tidyverse)
 library(report)
@@ -34,13 +29,8 @@ library(reshape2)
 
 # df_corpus: full corpus
 ## Description: dataframe with informations on the n = 2,280 studies in the full corpus
-df_corpus <-
-  tibble(read_excel(
-    paste0(
-      path,
-      "00_Anonymized_Data/Anonymized_Psych_Full_Corpus_save.xlsx"
-    )
-  ))
+url_corpus <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Full_Corpus_save.xlsx"
+df_corpus <- read_excel(url_corpus)
 
 # Print the number of rows in the dataframe
 print(nrow(df_corpus))

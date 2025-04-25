@@ -1,0 +1,355 @@
+﻿study_id,nr_researchers,publication_strength,support,support_binary,doi,title,authors,year,journal,abstract,rater,coding_round,individual_coding_notes_LS,exclusion_reason,support_orig_LS,evaluation_certainty_LS,hypothesis_LS,hypothesis_introduction_LS,finding_LS,conclusion_LS,hypothesis_from_fulltext_LS,result_from_fulltext_LS,fulltext_available_LS,individual_coding_notes_JD,support_orig_JD,evaluation_certainty_JD,hypothesis_JD,hypothesis_introduction_JD,finding_JD,conclusion_JD,hypothesis_from_fulltext_JD,result_from_fulltext_JD,fulltext_available_JD,interrater_agreement,revised_decision,paper_count,group_paper_count,quartile
+131,4,1.25,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,conference_abstract,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,4,5,1
+410,13,1.153846154,exclude,,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,2,,conference_abstract,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,4,15,1
+1489,5,0.6,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,conference_abstract,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,3,3,1
+1538,17,1.058823529,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,2,,conference_abstract,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,2,18,1
+795,5,1.2,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,1,anonymized,descriptive,exclude,,,,,,,,,anonymized,exclude,,,,,,,,1,TRUE,,6,6,1
+130,4,1.25,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,4,,,,,,,1,,,4,5,1
+430,20,1.05,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,4,,,,,,,1,,,1,21,1
+612,15,10.2,exclude,,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,21,153,4
+878,18,1.222222222,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,3,,descriptive,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,2,22,1
+1226,17,3.176470588,exclude,,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,11,54,4
+1238,30,1.166666667,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,4,,,,,,,1,,,1,35,1
+1542,15,10.2,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,54,153,4
+1557,6,3,exclude,,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,2,,descriptive,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,4,18,4
+1789,13,1.153846154,exclude,,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,4,,,,,,,1,,,2,15,1
+1937,15,10.2,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,23,153,4
+1956,13,1.230769231,exclude,,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,descriptive,,,,,,,,,,anonymized,exclude,5,,,,,,,1,,,1,16,1
+907,10,4,exclude,,anonymized,anonymized,anonymized,2014,anonymized,anonymized,JD/LS,2,anonymized,exploratory,exclude,,,,,,,,,anonymized,exclude,,,,,,,,,TRUE,,6,40,4
+1748,15,10.2,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD/LS,2,anonymized,exploratory,exclude,,,,,,,,,anonymized,exclude,,,,,,,,1,TRUE,,54,153,4
+1883,1,10,exclude,,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD/LS,1,anonymized,exploratory,exclude,,,,,,,,,anonymized,exclude,,,,,,,,1,TRUE,,10,10,4
+114,13,1.230769231,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,4,,,,,,,1,,,3,16,1
+266,12,0.916666667,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,3,,,,,,,1,,,1,11,1
+523,8,4.375,exclude,,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,16,35,4
+539,11,3.090909091,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,7,34,4
+574,8,0.875,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,3,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,5,7,1
+1253,8,1.25,exclude,,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,1,,,,,,,1,,,8,10,1
+1730,11,3.545454545,exclude,,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,9,39,4
+1806,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,2,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,6,65,1
+1957,15,10.2,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,23,153,4
+1972,15,10.2,exclude,,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,23,153,4
+2137,1,10,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,exploratory,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,10,10,4
+221,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,meta-analysis,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,1,65,1
+1203,10,4,exclude,,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD/LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,anonymized,exclude,,,,,,,,1,TRUE,,22,40,4
+2105,3,3.333333333,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,no clear hypothesis,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,1,10,4
+490,30,1.166666667,exclude,,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD/LS,1,anonymized,conference_abstract,exclude,,,,,,,,,anonymized,exclude,,,,,,,,0,TRUE,,1,35,1
+760,13,1.230769231,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,2,,no full-text,,,,,,,,,,anonymized,exclude,,,,,,,,0,,,8,16,1
+1524,7,4.428571429,exclude,,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,no full-text,,,,,,,,,,anonymized,exclude,,,,,,,,0,,,4,31,4
+1465,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,no quantitative hypothesis,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,4,65,1
+1594,15,10.2,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,non-original,,,,,,,,,,anonymized,exclude,,,,,,,,1,,,8,153,4
+1960,15,10.2,exclude,,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,23,153,4
+1626,15,10.2,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,7,153,4
+466,15,10.2,exclude,,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,54,153,4
+1332,8,0.875,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,5,7,1
+1114,11,3.090909091,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,3,34,4
+1591,24,2.791666667,exclude,,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,14,67,4
+1282,15,10.2,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,exploratory,exclude,,,,,,,,,,,,,,,,,,,,,21,153,4
+655,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,2,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,1,65,1
+804,8,4.375,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,3,35,4
+766,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,4,65,1
+1573,10,0.9,exclude,,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,7,9,1
+1602,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,1,65,1
+847,20,1.05,exclude,,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,2,21,1
+1109,30,1.166666667,exclude,,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,8,35,1
+544,55,1.181818182,exclude,,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,3,65,1
+545,4,1,exclude,,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,anonymized,no clear hypothesis,exclude,,,,,,,,,,,,,,,,,,,,,3,4,1
+1905,11,3.090909091,no support,0,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,2,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,22,34,4
+796,15,10.2,no support,0,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,9,153,4
+953,3,5,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,14,15,4
+284,55,1.181818182,no support,0,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,65,1
+1188,55,1.181818182,no support,0,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,4,65,1
+975,36,0.972222222,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,4,35,1
+665,12,0.916666667,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,11,1
+298,8,3.5,no support,0,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,28,4
+139,5,6.8,no support,0,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,2,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,9,34,4
+1204,55,1.181818182,no support,0,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,65,1
+268,6,3,no support,0,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,18,4
+1628,4,1,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD/LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,3,4,1
+1000,15,10.2,no support,0,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,153,4
+434,5,1.2,no support,0,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,6,6,1
+949,10,4,no support,0,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,22,40,4
+993,9,3.888888889,no support,0,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,35,4
+1294,8,1.25,no support,0,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,8,10,1
+453,9,3.888888889,no support,0,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD/LS,3,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,23,35,4
+178,8,0.875,no support,0,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,5,7,1
+2207,7,4.428571429,no support,0,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,no support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,31,4
+50,7,4.428571429,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,anonymized,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,31,4
+779,10,3,no support,0,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,2,anonymized,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,30,4
+1943,11,3.090909091,no support,0,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,anonymized,,no support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,22,34,4
+2276,55,1.181818182,no support,0,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,2,65,1
+189,30,1.166666667,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,5,35,1
+286,18,1.222222222,no support,0,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,22,1
+423,8,1.25,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,10,1
+482,5,6.8,no support,0,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,21,34,4
+775,12,3.083333333,no support,0,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,37,4
+1274,55,1.181818182,no support,0,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,,,,,,,,,,,,,,,,3,65,1
+1326,20,1.05,no support,0,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,no support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,21,1
+218,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,2,,,,,,,,,,,,anonymized,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,4,65,1
+2061,6,3,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,anonymized,partial support,3,anonymized,anonymized,anonymized,anonymized,0,1,1,,,9,18,4
+859,15,10.2,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD/LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,TRUE,,5,153,4
+1877,15,10.2,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,23,153,4
+735,8,4.375,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,35,4
+980,36,0.972222222,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,35,1
+2072,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,13,67,4
+860,8,2.875,partial support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,23,4
+1248,8,1.25,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,10,1
+444,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,65,1
+1699,15,10.2,partial support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,153,4
+597,20,1.05,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,21,1
+88,8,4.375,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD/LS,3,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,3,35,4
+835,17,3.176470588,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,54,4
+1310,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,35,1
+1088,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,14,67,4
+1457,8,4.375,partial support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD/LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,no support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,FALSE,partial support,16,35,4
+752,5,1.2,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD/LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,6,6,1
+1090,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,35,1
+1070,8,4.375,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,35,4
+1217,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,65,1
+1290,15,10.2,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,54,153,4
+652,15,10.2,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,21,153,4
+125,36,0.972222222,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,35,1
+413,11,3.545454545,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD/LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,TRUE,,9,39,4
+213,17,1.058823529,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,18,1
+680,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,65,1
+391,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD/LS,1,,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,0,1,TRUE,,8,35,1
+1446,7,4.428571429,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,31,4
+841,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,65,1
+2202,11,3.545454545,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,5,39,4
+238,15,10.2,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,153,4
+1453,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,65,1
+1525,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD/LS,1,anonymized,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,8,35,1
+1430,15,10.2,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,54,153,4
+1078,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,4,65,1
+906,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,4,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,65,1
+176,8,3.5,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,0,1,1,,,4,28,4
+903,8,2.875,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,23,4
+613,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,35,1
+1983,17,3.176470588,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,54,4
+1665,15,10.2,partial support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,153,4
+127,36,0.972222222,partial support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,35,1
+1888,11,3.090909091,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,22,34,4
+1502,18,1.222222222,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD/LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,FALSE,partial support,2,22,1
+2018,11,3.545454545,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD/LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,5,39,4
+1239,8,4.375,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,2,,,,,,,,,,,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,35,4
+1039,15,10.2,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD/LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,21,153,4
+881,36,0.972222222,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,3,anonymized,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,2,35,1
+1196,8,1.25,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,anonymized,,partial support,4,anonymized,anonymized,anonymized,anonymized,,,,,,,,,,,,,,,,8,10,1
+723,20,1.05,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,,partial support,2,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,21,1
+793,20,1.05,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,2,21,1
+1373,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,3,65,1
+682,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,anonymized,,partial support,2,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,9,35,1
+607,8,4.375,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,35,4
+427,10,3,partial support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,30,4
+1771,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,anonymized,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,65,1
+1907,15,10.2,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,anonymized,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,23,153,4
+1992,6,3.5,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,12,21,4
+1004,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,anonymized,,partial support,4,anonymized,anonymized,anonymized,anonymized,0,0,0,,,,,,,,,,,,,5,67,4
+1777,12,3.083333333,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,anonymized,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,37,4
+1620,8,4.375,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,anonymized,,partial support,2,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,35,4
+285,13,1.153846154,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,anonymized,,partial support,3,anonymized,anonymized,anonymized,anonymized,0,1,1,,,,,,,,,,,,,4,15,1
+1180,3,5,partial support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,2,anonymized,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,14,15,4
+746,8,3.5,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,28,4
+239,10,4,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,anonymized,,partial support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,22,40,4
+2270,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,2,35,1
+2188,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,2,65,1
+280,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,3,67,4
+1491,8,0.875,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,7,1
+1868,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,65,1
+1552,18,1.222222222,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,2,anonymized,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,22,1
+1749,5,6.8,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,2,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,21,34,4
+134,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,5,35,1
+209,10,3,partial support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,30,4
+452,30,1.166666667,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,9,35,1
+500,17,1.058823529,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,2,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,18,1
+556,8,4.375,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,16,35,4
+721,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,2,67,4
+740,9,1.222222222,partial support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,11,1
+790,10,3,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,30,4
+800,8,2.875,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,23,4
+834,4,1,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,4,1
+1043,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,3,67,4
+1081,17,3.176470588,partial support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,6,54,4
+1103,10,3,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,30,4
+1208,1,7,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,7,4
+1554,4,1,partial support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,4,1
+1601,15,10.2,partial support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,9,153,4
+1691,8,4.375,partial support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,35,4
+1709,15,10.2,partial support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,3,153,4
+2219,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,67,4
+1668,8,4.375,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,10,35,4
+1761,11,3.545454545,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,39,4
+2222,24,2.791666667,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,,,,,,,,,,,,,,,,13,67,4
+1567,55,1.181818182,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,2,65,1
+2026,1,10,partial support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,10,10,4
+1426,17,3.176470588,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,anonymized,support,4,anonymized,anonymized,anonymized,anonymized,0,1,1,,,6,54,4
+709,30,1.166666667,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,anonymized,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,5,35,1
+2095,11,3.090909091,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,anonymized,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,22,34,4
+1894,55,1.181818182,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,65,1
+986,10,4,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,22,40,4
+588,18,1.222222222,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,22,1
+1575,15,10.2,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,54,153,4
+317,9,1.222222222,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,2,11,1
+566,30,1.166666667,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,9,35,1
+606,8,3.5,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,28,4
+1712,55,1.181818182,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,4,65,1
+107,10,3,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,30,4
+1740,5,6.8,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,21,34,4
+1696,10,3,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,30,4
+1130,10,4,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,partial support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,FALSE,support,22,40,4
+1865,15,10.2,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,3,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,9,153,4
+1759,20,1.05,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,21,1
+600,11,3.090909091,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,34,4
+1697,15,10.2,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,54,153,4
+343,3,5,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,14,15,4
+2150,10,0.9,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,9,1
+1023,20,1.05,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,21,1
+320,17,3.176470588,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,54,4
+1334,30,1.166666667,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,9,35,1
+587,18,1.222222222,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,22,1
+660,13,1.153846154,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,5,15,1
+957,9,3.888888889,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD/LS,1,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,23,35,4
+1994,55,1.181818182,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,65,1
+1416,18,1.222222222,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,0,1,1,,,8,22,1
+1657,15,10.2,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,9,153,4
+1461,8,1.25,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,10,1
+484,18,1.222222222,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,22,1
+530,15,10.2,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,4,153,4
+149,8,3.5,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,28,4
+725,18,1.222222222,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,1,22,1
+1352,10,3,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,30,4
+329,1,7,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,7,4
+1842,18,1.222222222,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,22,1
+1490,5,0.6,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,3,1
+2089,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,1,65,1
+1793,17,3.176470588,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,54,4
+2235,17,3.176470588,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,54,4
+719,30,1.166666667,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,5,35,1
+1067,13,1.230769231,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,8,16,1
+1964,15,10.2,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,23,153,4
+2161,30,1.166666667,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,35,1
+711,36,0.972222222,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,35,1
+1281,15,10.2,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,54,153,4
+1947,15,10.2,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,23,153,4
+1086,15,10.2,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,9,153,4
+1476,9,1.222222222,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,7,11,1
+1509,10,4,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,40,4
+205,6,3.5,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,2,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,21,4
+377,9,3.888888889,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,23,35,4
+1660,4,1,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,4,4,1
+485,3,0.333333333,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,1,1
+2052,11,3.545454545,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,3,39,4
+229,8,4.375,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,35,4
+1794,20,1.05,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,21,1
+1912,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,65,1
+2275,30,1.166666667,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,0,1,1,,,1,35,1
+517,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,65,1
+505,55,1.181818182,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD/LS,1,anonymized,,support,2,anonymized,anonymized,anonymized,anonymized,1,0,1,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,TRUE,,2,65,1
+1372,8,3.5,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,28,4
+1289,13,1.153846154,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,4,15,1
+2173,3,5,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,14,15,4
+1262,10,4,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,22,40,4
+1311,55,1.181818182,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,6,65,1
+1574,18,1.222222222,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,0,1,,,1,22,1
+584,18,1.222222222,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,4,,,,,,,,,,,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,22,1
+496,10,3,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,30,4
+1462,36,0.972222222,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,3,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,2,35,1
+637,36,0.972222222,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,5,35,1
+644,36,0.972222222,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,3,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,5,35,1
+1487,36,0.972222222,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,5,35,1
+1350,15,10.2,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,21,153,4
+1080,9,3.888888889,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,23,35,4
+1299,12,0.916666667,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,11,1
+1652,9,1.222222222,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,11,1
+527,36,0.972222222,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,5,35,1
+1297,36,0.972222222,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,35,1
+1118,18,1.222222222,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,22,1
+2017,24,2.791666667,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,67,4
+1242,20,1.05,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,3,21,1
+300,8,4.375,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,35,4
+2168,17,3.176470588,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,8,54,4
+1374,15,10.2,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,7,153,4
+1233,4,1,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD/LS,1,anonymized,,support,2,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,4,4,1
+750,1,7,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,7,4
+1725,13,1.153846154,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,4,15,1
+838,10,4,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,22,40,4
+323,5,0.6,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD/LS,1,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,TRUE,,1,3,1
+1844,8,2.875,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,2,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,7,23,4
+611,10,3,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,16,30,4
+638,36,0.972222222,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,35,1
+890,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,1,65,1
+2145,24,2.791666667,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,JD,1,,,,,,,,,,,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,2,67,4
+193,36,0.972222222,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,anonymized,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,5,35,1
+1814,7,4.428571429,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,2,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,0,1,1,,,,,,,,,,,,,7,31,4
+2106,5,6.8,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,34,4
+253,8,4.375,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,10,35,4
+219,4,1,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,3,4,1
+1431,30,1.166666667,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,35,1
+1530,9,1.222222222,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,11,1
+1108,3,3.333333333,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,10,4
+2004,17,3.176470588,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,anonymized,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,2,54,4
+592,36,0.972222222,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,2,anonymized,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,2,35,1
+1638,5,6.8,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,anonymized,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,21,34,4
+850,15,10.2,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,anonymized,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,9,153,4
+1115,4,1,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,anonymized,,support,3,anonymized,anonymized,anonymized,anonymized,,,,,,,,,,,,,,,,3,4,1
+685,30,1.166666667,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,9,35,1
+2176,6,3.5,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,anonymized,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,12,21,4
+1079,10,4,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,anonymized,,support,2,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,40,4
+1962,15,10.2,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,23,153,4
+9,17,1.058823529,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,0,0,1,,,,,,,,,,,,,2,18,1
+17,17,3.176470588,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,8,54,4
+20,17,1.058823529,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,0,0,1,,,,,,,,,,,,,2,18,1
+53,20,1.05,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,21,1
+56,7,4.428571429,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,31,4
+128,4,1.25,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,5,1
+158,3,5,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,14,15,4
+223,4,1.25,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,,,support,3,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,5,1
+234,36,0.972222222,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,35,1
+242,10,3,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,30,4
+252,9,3.888888889,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,23,35,4
+287,12,0.916666667,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,11,1
+294,2,4,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,8,4
+358,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,65,1
+399,30,1.166666667,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,0,0,1,,,,,,,,,,,,,1,35,1
+429,20,1.05,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,21,1
+432,55,1.181818182,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,65,1
+478,8,1.25,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,10,1
+529,13,1.230769231,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,16,1
+596,10,0.9,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,9,1
+599,5,1.2,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,6,1
+739,9,1.222222222,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,2,11,1
+780,30,1.166666667,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,3,35,1
+781,1,7,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,7,4
+785,15,10.2,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,54,153,4
+812,24,2.791666667,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,14,67,4
+828,55,1.181818182,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,0,0,1,,,,,,,,,,,,,2,65,1
+848,10,4,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,40,4
+889,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,1,65,1
+900,36,0.972222222,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,2,35,1
+918,30,1.166666667,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,3,35,1
+921,30,1.166666667,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,9,35,1
+930,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,65,1
+968,17,3.176470588,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,6,54,4
+1044,8,4.375,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,10,35,4
+1165,10,4,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,40,4
+1172,17,1.058823529,support,1,anonymized,anonymized,anonymized,2013,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,7,18,1
+1261,3,3.333333333,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,8,10,4
+1280,15,10.2,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,54,153,4
+1323,36,0.972222222,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,0,0,1,,,,,,,,,,,,,5,35,1
+1355,55,1.181818182,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,65,1
+1362,55,1.181818182,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,65,1
+1378,17,1.058823529,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,7,18,1
+1389,36,0.972222222,support,1,anonymized,anonymized,anonymized,2018,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,5,35,1
+1393,20,1.05,support,1,anonymized,anonymized,anonymized,2017,anonymized,anonymized,LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,3,21,1
+1404,15,10.2,support,1,anonymized,anonymized,anonymized,2019,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,54,153,4
+1422,8,4.375,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,16,35,4
+1427,12,0.916666667,support,1,anonymized,anonymized,anonymized,2015,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,11,1
+1488,5,0.6,support,1,anonymized,anonymized,anonymized,2014,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,3,3,1
+1501,15,10.2,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,8,153,4
+1592,5,0.6,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,2,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,1,3,1
+1651,10,3,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,6,30,4
+1763,30,1.166666667,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,1,35,1
+1621,15,10.2,support,1,anonymized,anonymized,anonymized,2021,anonymized,anonymized,LS,1,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,16,153,4
+1800,55,1.181818182,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,2,,,support,4,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,3,65,1
+1837,17,3.176470588,support,1,anonymized,anonymized,anonymized,2020,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,4,54,4
+1619,5,6.8,support,1,anonymized,anonymized,anonymized,2016,anonymized,anonymized,LS,1,,,support,5,anonymized,anonymized,anonymized,anonymized,1,1,1,,,,,,,,,,,,,21,34,4
+1736,12,0.916666667,support,1,anonymized,anonymized,anonymized,2022,anonymized,anonymized,LS,1,,,support,3,anonymized,anonymized,anonymized,anonymized,1,0,1,,,,,,,,,,,,,1,11,1

@@ -10,24 +10,22 @@
 ## remove workspace
 rm(list = ls())
 
-## set working directory
-path = "path/to/data/"
-setwd(path)
-
 # Load packages:
 library(readxl)
 library(tidyverse)
 library(report)
 library(cld2)
 
-## exclude "exclude" from df_full
-## These are studies which do not report a hypothesis or are not quantitative 
-df_full <-
-  read_excel(
-    "00_Anonymized_Data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
-  )
+# df_sample: sampled studies
+## Description: dataframe with informations on the n = 354 sampled studies
+url_sample <- "https://raw.githubusercontent.com/schiekiera/collabra_2025/blame/main/data/Anonymized_Psych_Results_Extraction_Final_save.xlsx"
+df_sample <- read_excel(url_sample)
 
-included <- df_full[df_full$support != "exclude", ]
+# included: included studies
+##  description =   Dataframe with informations on the n = 300 sampled and included studies
+##  procedure   =   Exclude studies with the "exclude"-tag from df_sample$support
+##  explanation =   The "exclude"-tag indicates studies which do not report a hypothesis or are not quantitative 
+included <- df_sample[df_sample$support != "exclude",]
 
 
 ######################################################################################
