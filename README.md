@@ -16,5 +16,7 @@ There was no statistically significant difference between the highest and lowest
 ### Conclusion:
 Our results suggest a general excess of positive results in clinical psychology. Contrary to our hypothesis, German clinical psychology research groups with high and low publication outputs do not differ in the prevalence of positive outcomes in their publications.
 
+## Citation
+If you use the data or the code, please cite the paper as follows:
 
-
+Schiekiera, L., & Niemeyer, H. (in print). Does Scientific Productivity Increase the Publication of Positive Results? *Collabra: Psychology*. https://doi.org/10.1525/collabra.137035
