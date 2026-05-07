@@ -1,9 +1,9 @@
-# Does Scientific Productivity Increase the Publication of Positive Results?
+## Does Scientific Productivity Increase the Publication of Positive Results?
 
 Anonymized data and analysis code for the metascientific study **"Does Scientific Productivity Increase the Publication of Positive Results?"** by Louis Schiekiera & Helen Niemeyer, published in *Collabra: Psychology* (2025), 11(1), 137035. [DOI: 10.1525/collabra.137035](https://doi.org/10.1525/collabra.137035) · [PDF](https://online.ucpress.edu/collabra/article-pdf/11/1/137035/874484/collabra_2025_11_1_137035.pdf) · [Preregistration](https://osf.io/46fk9/files/osfstorage/65aea1a9b1f2b50389b0e3f3) · [TLDR](https://schiekiera.github.io/blog/2025/scientific-productivity-positive-results/)
 
 
-## Table of Contents
+### Table of Contents
 - [Overview](#overview)
 - [How to use the data](#how-to-use-the-data)
 - [Abstract](#abstract)
@@ -11,15 +11,15 @@ Anonymized data and analysis code for the metascientific study **"Does Scientifi
 - [Citation](#citation)
 
 
-## Overview
+### Overview
 This repository contains anonymized data and analysis code for a metascientific study on the influence of scientific productivity on the prevalence of positive results in clinical psychology. The corpus consists of 2,280 quantitative-empirical publications first-authored by clinical psychology researchers across 99 research groups at 52 German universities (2013–2022), sourced from PubMed and OpenAlex.
 
 
-## How to use the data
+### How to use the data
 The scripts are prepared so that the data are loaded directly from this GitHub repository — no manual download is required. All confirmatory analyses (the registered hypotheses) are fully reproducible from the public data. Parts of the data used for the exploratory analyses are anonymized because they contain sensitive information (e.g., researcher names).
 
 
-## Abstract
+### Abstract
 
 **Background.** The overrepresentation of positive results in psychology is often attributed in part to publication bias. However, the impact of research-group output on the prevalence of positive results has not yet been investigated. The present study examines whether German clinical psychology research groups with high versus low publication outputs differ in the prevalence of positive outcomes in their publications.
 
@@ -30,7 +30,7 @@ The scripts are prepared so that the data are loaded directly from this GitHub r
 **Conclusion.** Our results suggest a general excess of positive results in clinical psychology. Contrary to our hypothesis, German clinical psychology research groups with high and low publication outputs do not differ in the prevalence of positive outcomes in their publications.
 
 
-## Key findings
+### Key findings
 
 - **Q1 (low output)**: 90.00% positive (95% CI: 84.0–94.3%, *n* = 150).
 - **Q4 (high output)**: 89.33% positive (95% CI: 83.3–93.8%, *n* = 150).
@@ -40,7 +40,7 @@ The scripts are prepared so that the data are loaded directly from this GitHub r
 - **Comparison to prior work**: the observed full-support rate (89.67%) sits between Fanelli (91.5%) and Scheel et al. (96.05%), and likely reflects this study's broader inclusion criteria (all empirical studies, not only those explicitly "testing hypotheses").
 
 
-## Citation
+### Citation
 If you use the data or the code, please cite the paper as follows:
 
 > Schiekiera, L., & Niemeyer, H. (2025). Does scientific productivity increase the publication of positive results? *Collabra: Psychology, 11*(1), 137035. https://doi.org/10.1525/collabra.137035
